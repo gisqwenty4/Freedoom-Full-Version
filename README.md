@@ -238,4 +238,4 @@ This repository serves as the official landing page for Freedoom. The software i
 **Get the most recent version of Freedoom today!**
 
 ---
-**Last updated:** 2026-10-22 18:23:36 UTC
+**Last updated:** 2026-10-22 22:11:14 UTC
